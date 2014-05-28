@@ -62,7 +62,6 @@
   <project path="packages/apps/Contacts" name="Sonic-Developers/android_packages_apps_Contacts" revision="sokp-kk" />
   <project path="packages/apps/ContactsCommon" name="Sonic-Developers/android_packages_apps_ContactsCommon" revision="sokp-kk" />
   <project path="packages/apps/CRoMAbout" name="Sonic-Developers/android_packages_apps_CRoMAbout" revision="sokp-kk" />
-  <project path="packages/apps/CRoMOTA" name="Sonic-Developers/android_packages_apps_CRoMOTA" revision="sokp-kk" />
   <project path="packages/apps/DashClock" name="Sonic-Developers/android_packages_apps_DashClock" revision="sokp-kk" />
   <project path="packages/apps/Dialer" name="Sonic-Developers/android_packages_apps_Dialer" revision="sokp-kk" />
   <project path="packages/apps/Gallery2" name="Sonic-Developers/android_packages_apps_Gallery2" revision="sokp-kk" />
