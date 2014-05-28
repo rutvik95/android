@@ -515,10 +515,11 @@
   <!-- Vendor Packages Ends-->
   
   <!-- SOKP Official Supported Devices Starts-->
-  <project path="device/samsung/n7100" name="CyanogenMod/android_device_samsung_n7100" remote="cm" revision="cm-11.0" />
+  <project path="device/samsung/n7100" name="Sonic-Developers/android_device_samsung_n7100" remote="cm" revision="sokp-kk" />
+    <project path="device/samsung/smdk4412-common" name="Sonic-Developers/android_device_samsung_smdk4412-common" remote="cm" revision="sokp-kk" />
   <!-- SOKP Official Supported Devices Starts-->
   
   <!-- SOKP Kernel Sources Starts-->
-  <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" remote="cm" revision="cm-11.0" />
+  <project path="kernel/samsung/smdk4412" name="Sonic-Developers/android_kernel_samsung_smdk4412" remote="cm" revision="sokp-kk" />
   <!-- SOKP Kernel Sources Ends-->
 </manifest>  
